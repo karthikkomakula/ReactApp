@@ -1,0 +1,95 @@
+export const transactionData = [
+  {
+    id: 1,
+    name: "John",
+    amount: 100,
+    date: "03/01/2021",
+  },
+  {
+    id: 2,
+    name: "Peter",
+    amount: 200,
+    date: "03/05/2021",
+  },
+  {
+    id: 1,
+    name: "John",
+    amount: 300,
+    date: "02/05/2021",
+  },
+  {
+    id: 2,
+    name: "Peter",
+    amount: 475,
+    date: "01/15/2021",
+  },
+  {
+    id: 1,
+    name: "John",
+    amount: 956,
+    date: "01/25/2021",
+  },
+  {
+    id: 1,
+    name: "John",
+    amount: 10,
+    date: "02/10/2021",
+  },
+  {
+    id: 2,
+    name: "Peter",
+    amount: 700,
+    date: "04/04/2021",
+  },
+  {
+    id: 2,
+    name: "Peter",
+    amount: 200,
+    date: "03/30/2021",
+  },
+  {
+    id: 1,
+    name: "John",
+    amount: 10,
+    date: "04/01/2021",
+  },
+  {
+    id: 2,
+    name: "Peter",
+    amount: 250,
+    date: "02/26/2021",
+  },
+  {
+    id: 3,
+    name: "Amalia",
+    amount: 90,
+    date: "02/26/2021",
+  },
+  {
+    id: 4,
+    name: "kate",
+    amount: 60,
+    date: "02/02/2021",
+  },
+  {
+    id: 4,
+    name: "kate",
+    amount: 110,
+    date: "04/02/2021",
+  },
+];
+
+export const months = [
+  "Jan",
+  "Feb",
+  "Mar",
+  "April",
+  "May",
+  "June",
+  "July",
+  "Aug",
+  "Sep",
+  "Oct",
+  "Nov",
+  "Dec",
+];
